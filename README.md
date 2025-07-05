@@ -55,7 +55,7 @@ You’re welcome to contribute if you’re into:
 - Full-stack or MLOps
 
 If you’re passionate about building tools that help make educational content more accessible, I’d love to work with you.  
-Feel free to open an issue or reach out via [LinkedIn](www.linkedin.com/in/krishna-sharma-112366215).
+Feel free to open an issue or reach out via [LinkedIn](https://www.linkedin.com/in/krishna-sharma-112366215).
 
 ## How to Run the Model Locally
 
