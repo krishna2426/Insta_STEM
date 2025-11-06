@@ -9,7 +9,7 @@ This sparked the idea to build a tool that can help surface meaningful STEM cont
 
 ## Vision
 
-In a world filled with short-form entertainment, educational content often gets overlooked. TikTok has addressed this with its dedicated STEM feed — Instagram has not. This project aims to bridge that gap using machine learning.
+In a world filled with short-form entertainment, educational content often gets overlooked. TikTok has addressed this with its dedicated STEM feed — Instagram has not. This project aims to bridge that gap using machine learning, and I hope it does.
 
 The long-term vision:
 - Build a personalized STEM feed for Instagram
