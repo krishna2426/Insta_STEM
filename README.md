@@ -2,7 +2,7 @@
 
 **instaSTEM** is an early-stage machine learning project designed to identify and classify STEM (Science, Technology, Engineering, Mathematics) content on Instagram, starting with captions.
 
-## Inspiration
+## Inspiration.
 
 I came up with this idea while watching a [video](https://youtu.be/3i59t2i7lhM?feature=shared) by [Neil deGrasse Tyson](https://en.wikipedia.org/wiki/Neil_deGrasse_Tyson), where he reviewed several TikToks featured in TikTok’s new STEM feed. That video made me realize how powerful a dedicated educational content filter can be — and how Instagram still doesn’t have anything like it.  
 This sparked the idea to build a tool that can help surface meaningful STEM content on platforms where it often gets buried under entertainment overload.
@@ -19,12 +19,12 @@ The long-term vision:
 
 ## What’s Been Built So Far
 
-- A working machine learning model trained to classify Instagram captions as either **STEM** or **Non-STEM**
-- Dataset of 500+ labeled Instagram captions
-- Text preprocessing (lowercasing, cleaning, hashtag retention)
-- TF-IDF vectorizer with bi-grams
-- Logistic Regression model
-- Model and vectorizer saved as `.pkl` files for future app integration
+- A working machine learning model trained to classify Instagram captions as either **STEM** or **Non-STEM**.
+- Dataset of 500+ labeled Instagram captions.
+- Text preprocessing (lowercasing, cleaning, hashtag retention).
+- TF-IDF vectorizer with bi-grams.
+- Logistic Regression model.
+- Model and vectorizer saved as `.pkl` files for future app integration.
 
 ## What’s Not Built Yet
 
