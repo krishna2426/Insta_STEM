@@ -12,9 +12,9 @@ This sparked the idea to build a tool that can help surface meaningful STEM cont
 In a world filled with short-form entertainment, educational content often gets overlooked. TikTok has addressed this with its dedicated STEM feed — Instagram has not. This project aims to bridge that gap using machine learning, and I hope it does.
 
 The long-term vision:
-- Build a personalized STEM feed for Instagram
-- Use intelligent content filtering to elevate science and tech creators
-- Eventually expand to other platforms like YouTube Shorts and Reddit
+- Build a personalized STEM feed for Instagram.
+- Use intelligent content filtering to elevate science and tech creators.
+- Eventually expand to other platforms like YouTube Shorts and Reddit.
 - Enable filtering by subtopics (AI, physics, math, etc.)
 
 ## What’s Been Built So Far
@@ -28,18 +28,18 @@ The long-term vision:
 
 ## What’s Not Built Yet
 
-- No user interface (web or mobile)
-- No browser extension or automation
-- No deployment
-- No multi-platform support (yet)
+- No user interface (web or mobile).
+- No browser extension or automation.
+- No deployment.
+- No multi-platform support (yet).
 
 ## What's Next
 
-- Build a minimal web app using Streamlit or Flask
-- Develop a Chrome extension or mobile wrapper to apply filtering on Instagram
-- Improve the model with transformer-based classifiers (e.g., BERT)
-- Add support for sub-topic classification (e.g., Math, CS, Physics)
-- Explore cross-platform STEM feed aggregation (Reddit, YouTube Shorts)
+- Build a minimal web app using Streamlit or Flask.
+- Develop a Chrome extension or mobile wrapper to apply filtering on Instagram.
+- Improve the model with transformer-based classifiers (e.g., BERT).
+- Add support for sub-topic classification (e.g., Math, CS, Physics).
+- Explore cross-platform STEM feed aggregation (Reddit, YouTube Shorts).
 
 ## Looking for Contributors
 
