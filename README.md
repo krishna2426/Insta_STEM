@@ -46,13 +46,13 @@ The long-term vision:
 This is currently a solo project, and I’m looking for contributors to collaborate on the next phases.
 
 You’re welcome to contribute if you’re into:
-- Frontend development (React, Tailwind, Streamlit)
-- Backend development (Flask, FastAPI)
-- Browser extensions
-- NLP and transformer models
-- UI/UX design
-- Dataset expansion or annotation
-- Full-stack or MLOps
+- Frontend development (React, Tailwind, Streamlit).
+- Backend development (Flask, FastAPI).
+- Browser extensions.
+- NLP and transformer models.
+- UI/UX design.
+- Dataset expansion or annotation.
+- Full-stack or MLOps.
 
 If you’re passionate about building tools that help make educational content more accessible, I’d love to work with you.  
 Feel free to open an issue or reach out via [LinkedIn](https://www.linkedin.com/in/krishna-sharma-112366215).
